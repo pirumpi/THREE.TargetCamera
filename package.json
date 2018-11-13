@@ -1,5 +1,5 @@
 {
-  "name": "THREE.TargetCamera.js",
+  "name": "TargetCamera",
   "version": "1.1.0",
   "devDependencies": {
     "grunt": "~0.4.1",

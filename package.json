@@ -1,5 +1,6 @@
 {
   "name": "targetcamera",
+  "main": "src",
   "version": "1.1.0",
   "devDependencies": {
     "grunt": "~0.4.1",

@@ -6,7 +6,7 @@
  *  (See the LICENSE file at root of this repository.)
  */
 
- (function() {
+ export function init(THREE) {
     THREE.TargetCamera = function( fov, aspect, near, far ) {
         THREE.PerspectiveCamera.call( this );
     
@@ -174,4 +174,4 @@
         }
     };
     return THREE.TargetCamera;
- })(THREE);
+ };
